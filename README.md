@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justine Awunudo
 - 👀 I’m interested in Cars, Technology, travelling around the world and helping others
 - 🌱 I’m currently learning Full Stack Software Engineering
-- 💞️ I’m looking to collaborate on projeects that can sharpen and broaden my knowledge of Software Engineering
+- 💞️ I’m looking to collaborate on projects that can sharpen and broaden my knowledge of Software Engineering
 - 📫 How to reach me jawunudo@gmail.com
 
 <!---
